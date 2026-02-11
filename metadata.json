@@ -1,0 +1,8 @@
+{
+  "name": "NovaClip AI - Smart Video Editor",
+  "description": "An AI-powered video editing suite that uses Gemini to analyze semantics, prune redundancy, and reconstruct videos based on selected subtitles.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
