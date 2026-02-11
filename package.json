@@ -1,19 +1,7 @@
-
 {
-  "name": "smart-video-editor",
+  "name": "novaclip-ai---smart-video-editor",
   "private": true,
   "version": "0.0.0",
-    "description": "Smart Video Editor with Gemini AI",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.tsx",
-    "dev": "node --watch index.tsx"
-  },
-  "dependencies": {
-    "@google/generative-ai": "^0.2.1",
-    "dotenv": "^16.4.1"
-  },
-  
   "type": "module",
   "scripts": {
     "dev": "vite",
