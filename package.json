@@ -6,8 +6,8 @@
     "description": "Smart Video Editor with Gemini AI",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "node --watch index.js"
+    "start": "node index.tsx",
+    "dev": "node --watch index.tsx"
   },
   "dependencies": {
     "@google/generative-ai": "^0.2.1",
